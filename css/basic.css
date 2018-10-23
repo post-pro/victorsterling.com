@@ -1,4 +1,5 @@
-body {margin: 5% 10%; background-color: #1B1D1E; line-height: 2em}
+body {margin: 4em auto; background-color: #1B1D1E; line-height: 2em;
+max-width: 800px}
 footer {border-top: 1px solid #FF91AF; font-size: .75em;}
 p, ul {font-size: 1em; color: #FF91AF;}
 h2 {color: #FF91AF; font-size: 2em;}
