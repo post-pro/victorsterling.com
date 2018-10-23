@@ -1,4 +1,4 @@
-body {margin: 5% 15%; background-color: #1B1D1E; line-height: 2em}
+body {margin: 5% 10%; background-color: #1B1D1E; line-height: 2em}
 footer {border-top: 1px solid #FF91AF; font-size: .75em;}
 p, ul {font-size: 1em; color: #FF91AF;}
 h2 {color: #FF91AF; font-size: 2em;}
@@ -7,7 +7,7 @@ a:hover {text-decoration: underline;}
 a:visited {text-decoration: none; color: #808080;}
 footer {text-align: center;}
 footer ul li {display: inline; margin-right: 3em;}
-.text {max-width: 50%; text-align: left;}
+.text {max-width: 85%; text-align: left;}
 .hang {width: 20%; text-align: right; vertical-align: top;}
 .space {width: 2em;}
-.big {font-size: 4em;}
+.big {font-size: 4em; line-height: 1em;}
